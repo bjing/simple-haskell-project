@@ -1,4 +1,4 @@
-# Simple Haskell Project
+# Simple Haskell Project Template
 This is a simple Haskell project template for you to start a new project from scratch
 
 The project uses [Haskell Stack] as the build tool.
