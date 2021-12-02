@@ -25,7 +25,7 @@ library:
   source-dirs: src
 
 executables:
-  myserver-exe:
+  simple-haskell-project-exe:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
@@ -37,7 +37,7 @@ executables:
     - simple-haskell-project
 
 tests:
-  myserver-test:
+  simple-haskell-project-test:
     main:                Spec.hs
     source-dirs:         test
     ghc-options:
