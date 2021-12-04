@@ -20,6 +20,23 @@ Test:
 stack test
 ```
 
+### Run a single file
+```
+stack runghc <file-path>
+```
+
+### Load a file into REPL
+Start the REPL
+```
+stack ghci
+```
+
+Within the REPL prompt
+
+```
+:l <filepath>
+```
+
 ### Formatter
 [Stylish-haskell] is recommended.
 
